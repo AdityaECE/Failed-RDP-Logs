@@ -26,8 +26,8 @@ ipgeolocation.io : To get the Latitude and Longitude Information of attacker
 <img width="683" alt="virtual machine powershell script and host logins pic" src="https://github.com/AdityaECE/Failed-RDP-Logs/assets/89286686/0923dcff-5b91-4b5a-8e43-01b26531c019">
 
 
-This Powershell code is in the repository with the name of "Custom log exporter"
-
+- This Powershell code is in the repository with the name of "Custom log exporter"
+- The data for failed attempts is present in the repo with the name of "bruteforce_rdp_log"
 
 # Visual Representation of attacker's geolocation on Map
 <img width="631" alt="failed rdp worldmap" src="https://github.com/AdityaECE/Failed-RDP-Logs/assets/89286686/b4ae2ab4-591b-4f54-a971-78e50a833ed6">
